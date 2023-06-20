@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.daily-updates {
+  padding: 40px;
+  text-align: center;
+}
+
+.daily-updates h2 {
+  margin-bottom: 20px;
+}
+
+.daily-updates .blog-post {
+  margin-bottom: 40px;
+  text-align: left;
+}
+
+.daily-updates .blog-post h3 {
+  margin-bottom: 10px;
+}
+
+.daily-updates .blog-post p {
+  margin-bottom: 10px;
+  color: #555;
+}
